@@ -1,5 +1,1 @@
-export DATABASE_NAME=""
-export DATABASE_USER=""
-export DATABASE_PASW=""
-export DATABASE_HOST=""
-export DATABASE_PORT=""
+export DATABASE_URL=""
