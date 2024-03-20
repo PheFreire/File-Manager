@@ -57,8 +57,8 @@
 
 # Project Base
 
-## Software Architecture
-- Hexagonal Achitecture
+## [Software Architecture](https://github.com/PheFreire/Software-Architecture-Concepts)
+- [Hexagonal Achitecture](https://github.com/PheFreire/Hexagonal-Architecture-Concepts)
 
 ## Local Modularization
 - Business Rule - Hexagonal Architecture Nomeclature - Script
